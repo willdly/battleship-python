@@ -1,6 +1,4 @@
 # Author: William Ly
-# Github username: willdly
-# Date: 03/09/2022
 # Description: This program utilizes Classes, Function defintions, "Private" class members, lists, dictionaries, list/dictionary indexing, iterations and if-elif-else statements with the specified arguments. 
 #              The program represents a two-player game called Battleship. Users are able to initialize the game, place ships on their board, fire torpedos at their opponents, get the current state of the game,
 #              and get the remaining number of ships for the specified player. It is also able to validate/record players moves and update the current game state.
